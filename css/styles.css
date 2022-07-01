@@ -1121,4 +1121,13 @@ a:hover.back-to-top {
 	}
 	/* end of extra pages */
 }
+
+
+
+
+
 /* end of min-width 1200px */
+
+.was-validated span{
+	color: red;
+}
